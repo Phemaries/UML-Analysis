@@ -1,0 +1,434 @@
+vessel_name,imo,load_date,load_port,product,quantity_mt,data_source
+Eastern bay,9033440,2026-01-02,Tema,Gasoline,48400.0,Agent
+Eastern bay,9033440,2026-01-05,Takoradi,Gasoline,26010.0,Terminal
+Eastern bay,9033440,2026-01-17,Lome,Gasoline,40390.0,Terminal
+Eastern bay,9033440,2026-02-01,Tema,Gasoline,48380.0,Terminal
+Eastern bay,9033440,2026-02-02,Lagos,Gasoline,27540.0,Terminal
+Eastern bay,9033440,2026-02-08,Tema,Gasoline,22460.0,Terminal
+Eastern bay,9033440,2026-02-25,Lome,Gasoline,38970.0,Terminal
+Eastern bay,9033440,2026-02-27,Tema,Gasoline,47570.0,Terminal
+Eastern bay,9033440,2026-02-28,Lagos,Diesel,47030.0,Terminal
+Eastern bay,9033440,2026-03-15,Abidjan,Diesel,43840.0,Terminal
+Eastern bay,9033440,2026-03-29,Lagos,Diesel,47380.0,Terminal
+Eastern bay,9033440,2026-04-04,Takoradi,Diesel,22220.0,Terminal
+Eastern bay,9033440,2026-04-09,Abidjan,Diesel,37080.0,Terminal
+Eastern bay,9033440,2026-04-15,Lagos,Diesel,38630.0,Terminal
+Eastern bay,9033440,2026-04-24,Takoradi,Gasoline,34880.0,Terminal
+Eastern bay,9033440,2026-05-14,Lome,Jet A1,38880.0,Terminal
+Eastern bay,9033440,2026-08-02,Tema,Gasoline,22500.0,Agent
+Eastern voyager,9043407,2026-01-06,Lagos,Diesel,34570.0,Terminal
+Eastern voyager,9043407,2026-01-11,Lagos,Gasoline,28260.0,Terminal
+Eastern voyager,9043407,2026-01-12,Lagos,Diesel,44050.0,Terminal
+Eastern voyager,9043407,2026-01-13,Lagos,Diesel,25250.0,Broker
+Eastern voyager,9043407,2026-02-22,Lagos,Gasoline,48250.0,Broker
+Eastern voyager,9043407,2026-04-05,Abidjan,Diesel,33100.0,Agent
+Eastern voyager,9043407,2026-04-06,Lome,Jet A1,42370.0,Broker
+Eastern voyager,9043407,2026-04-13,Abidjan,Gasoline,19330.0,Terminal
+Eastern voyager,9043407,2026-04-28,Tema,Gasoline,30620.0,Terminal
+Eastern voyager,9043407,2026-05-04,Abidjan,Diesel,33140.0,Terminal
+Eastern voyager,9043407,2026-12-01,Lagos,Diesel,44000.0,Agent
+Eastern tide,9047362,2026-01-03,Lagos,Gasoline,41920.0,Terminal
+Eastern tide,9047362,2026-01-12,Abidjan,Gasoline,29780.0,Terminal
+Eastern tide,9047362,2026-02-05,Lagos,Diesel,51260.0,Terminal
+Eastern tide,9047362,2026-02-14,Lagos,Diesel,48860.0,Terminal
+Eastern tide,9047362,2026-03-01,Lagos,Gasoline,41900.0,Agent
+Eastern tide,9047362,2026-03-05,Lagos,Diesel,50860.0,Terminal
+Eastern tide,9047362,2026-03-08,Takoradi,Gasoline,38860.0,Terminal
+Eastern tide,9047362,2026-03-14,Lagos,Diesel,39900.0,Terminal
+Eastern tide,9047362,2026-03-22,Lome,Diesel,35350.0,Terminal
+Eastern tide,9047362,2026-03-25,Lome,Gasoline,36270.0,Terminal
+Eastern tide,9047362,2026-04-04,Lagos,Gasoline,41540.0,Broker
+Eastern tide,9047362,2026-04-17,Abidjan,Jet A1,24860.0,Terminal
+Eastern tide,9047362,2026-04-18,Lome,Gasoline,45720.0,Terminal
+Eastern tide,9047362,2026-05-03,Lagos,Diesel,50900.0,Agent
+Eastern tide,9047362,2026-05-06,Lagos,Diesel,25470.0,Terminal
+Eastern tide,9047362,2026-05-28,Tema,Gasoline,34720.0,Terminal
+Eastern tide,9047362,2026-06-05,Lagos,Diesel,25500.0,Agent
+Eastern tide,9047362,2026-08-03,Takoradi,Gasoline,38900.0,Agent
+Golden falcon,9053593,2026-01-02,Takoradi,Gasoline,38400.0,Agent
+Golden falcon,9053593,2026-01-04,Lagos,Diesel,41910.0,Terminal
+Golden falcon,9053593,2026-01-05,Lome,Gasoline,18430.0,Broker
+Golden falcon,9053593,2026-01-29,Lome,Diesel,45820.0,Terminal
+Golden falcon,9053593,2026-02-01,Takoradi,Gasoline,38440.0,Terminal
+Golden falcon,9053593,2026-02-12,Tema,Diesel,48290.0,Terminal
+Golden falcon,9053593,2026-02-22,Lagos,Jet A1,39260.0,Broker
+Golden falcon,9053593,2026-02-26,Lagos,Diesel,49830.0,Broker
+Golden falcon,9053593,2026-03-07,Lome,Jet A1,35610.0,Terminal
+Golden falcon,9053593,2026-03-24,Lagos,Diesel,50180.0,Terminal
+Golden falcon,9053593,2026-03-26,Takoradi,Gasoline,23120.0,Terminal
+Golden falcon,9053593,2026-03-27,Lagos,Diesel,21190.0,Terminal
+Golden falcon,9053593,2026-04-04,Lagos,Diesel,44710.0,Terminal
+Golden falcon,9053593,2026-05-12,Lagos,Diesel,50360.0,Broker
+Golden falcon,9053593,2026-05-17,Tema,Diesel,19790.0,Terminal
+Golden falcon,9053593,2026-07-03,Lome,Jet A1,35600.0,Agent
+Golden falcon,9053593,2026-12-02,Tema,Diesel,48300.0,Agent
+Amber crest,9057953,2026-01-27,Lome,Gasoline,23350.0,Terminal
+Amber crest,9057953,2026-02-03,Lagos,Gasoline,36280.0,Broker
+Amber crest,9057953,2026-02-11,Lagos,Diesel,36890.0,Terminal
+Amber crest,9057953,2026-03-18,Lome,Diesel,42370.0,Terminal
+Amber crest,9057953,2026-05-05,Lagos,Diesel,46490.0,Terminal
+Amber crest,9057953,2026-05-06,Abidjan,Diesel,18250.0,Terminal
+Amber crest,9057953,2026-05-08,Lagos,Gasoline,20000.0,Terminal
+Amber crest,9057953,2026-05-14,Lagos,Jet A1,26040.0,Terminal
+Amber crest,9057953,2026-05-21,Tema,Gasoline,45330.0,Terminal
+Amber crest,9057953,2026-05-24,Lagos,Jet A1,29530.0,Terminal
+Amber crest,9057953,2026-08-05,Lagos,Gasoline,20000.0,Agent
+Ivory bay,9100786,2026-01-04,Lome,Jet A1,23100.0,Terminal
+Ivory bay,9100786,2026-01-06,Takoradi,Jet A1,34590.0,Terminal
+Ivory bay,9100786,2026-02-04,Takoradi,Diesel,18100.0,Agent
+Ivory bay,9100786,2026-02-09,Lagos,Gasoline,31820.0,Terminal
+Ivory bay,9100786,2026-02-10,Lagos,Gasoline,29580.0,Terminal
+Ivory bay,9100786,2026-02-21,Lagos,Diesel,26960.0,Terminal
+Ivory bay,9100786,2026-02-27,Lagos,Gasoline,44400.0,Terminal
+Ivory bay,9100786,2026-04-01,Lome,Jet A1,23100.0,Agent
+Ivory bay,9100786,2026-04-02,Takoradi,Diesel,18100.0,Terminal
+Ivory bay,9100786,2026-04-05,Lome,Diesel,46300.0,Agent
+Ivory bay,9100786,2026-04-16,Lome,Diesel,41110.0,Terminal
+Ivory bay,9100786,2026-04-17,Lome,Gasoline,41390.0,Broker
+Ivory bay,9100786,2026-04-21,Abidjan,Gasoline,33560.0,Terminal
+Ivory bay,9100786,2026-05-04,Lome,Diesel,46260.0,Terminal
+Ivory bay,9100786,2026-05-22,Tema,Diesel,35750.0,Terminal
+Ivory bay,9100786,2026-05-23,Lome,Gasoline,37250.0,Terminal
+Ivory bay,9100786,2026-06-01,Takoradi,Jet A1,34600.0,Agent
+Ivory bay,9100786,2026-09-01,Abidjan,Jet A1,50300.0,Agent
+Ivory bay,9100786,2026-10-02,Lagos,Gasoline,29600.0,Agent
+Ivory star,9106376,2026-01-19,Lagos,Jet A1,49890.0,Terminal
+Ivory star,9106376,2026-01-24,Lome,Gasoline,35100.0,Broker
+Ivory star,9106376,2026-02-13,Lagos,Diesel,45080.0,Terminal
+Ivory star,9106376,2026-02-17,Takoradi,Diesel,50810.0,Terminal
+Ivory star,9106376,2026-02-20,Lome,Diesel,22460.0,Terminal
+Ivory star,9106376,2026-03-04,Lagos,Gasoline,33800.0,Agent
+Ivory star,9106376,2026-03-25,Abidjan,Diesel,44120.0,Terminal
+Ivory star,9106376,2026-04-03,Lagos,Gasoline,33840.0,Terminal
+Ivory star,9106376,2026-04-19,Lagos,Gasoline,48850.0,Terminal
+Ivory star,9106376,2026-04-22,Lagos,Gasoline,27500.0,Terminal
+Ivory star,9106376,2026-04-23,Lagos,Gasoline,50690.0,Terminal
+Ivory star,9106376,2026-04-30,Lome,Gasoline,22730.0,Broker
+Ivory star,9106376,2026-05-11,Tema,Diesel,26770.0,Terminal
+Ivory star,9106376,2026-05-30,Lagos,Jet A1,45760.0,Terminal
+Ivory star,9106376,2026-11-05,Tema,Diesel,26800.0,Agent
+Harbour falcon,9118745,2026-02-17,Tema,Gasoline,26230.0,Terminal
+Harbour falcon,9118745,2026-02-24,Takoradi,Jet A1,35410.0,Terminal
+Harbour falcon,9118745,2026-03-17,Lome,Gasoline,29870.0,Terminal
+Harbour falcon,9118745,2026-04-04,Lome,Diesel,24500.0,Agent
+Harbour falcon,9118745,2026-05-02,Takoradi,Diesel,25900.0,Agent
+Harbour falcon,9118745,2026-05-16,Lome,Diesel,26370.0,Terminal
+Harbour falcon,9118745,2026-05-20,Lagos,Diesel,35290.0,Terminal
+Harbour falcon,9118745,2026-05-23,Tema,Diesel,19650.0,Terminal
+Harbour falcon,9118745,2026-05-27,Lome,Diesel,27970.0,Terminal
+Cobalt pearl,9121314,2026-01-03,Lagos,Diesel,33500.0,Agent
+Cobalt pearl,9121314,2026-01-06,Lagos,Diesel,21080.0,Terminal
+Cobalt pearl,9121314,2026-01-16,Tema,Diesel,19370.0,Terminal
+Cobalt pearl,9121314,2026-01-21,Lagos,Jet A1,32450.0,Terminal
+Cobalt pearl,9121314,2026-02-17,Abidjan,Gasoline,47180.0,Terminal
+Cobalt pearl,9121314,2026-02-27,Lagos,Jet A1,27790.0,Terminal
+Cobalt pearl,9121314,2026-03-01,Lagos,Diesel,33520.0,Terminal
+Cobalt pearl,9121314,2026-03-10,Lome,Diesel,32680.0,Terminal
+Cobalt pearl,9121314,2026-03-18,Lagos,Jet A1,32570.0,Terminal
+Cobalt pearl,9121314,2026-03-19,Lagos,Diesel,38390.0,Terminal
+Cobalt pearl,9121314,2026-04-04,Abidjan,Diesel,50040.0,Terminal
+Cobalt pearl,9121314,2026-04-07,Abidjan,Diesel,30340.0,Terminal
+Cobalt voyager,9134828,2026-01-19,Takoradi,Gasoline,42000.0,Broker
+Cobalt voyager,9134828,2026-02-06,Takoradi,Gasoline,36690.0,Terminal
+Cobalt voyager,9134828,2026-02-09,Takoradi,Diesel,28760.0,Terminal
+Cobalt voyager,9134828,2026-02-13,Abidjan,Diesel,22960.0,Broker
+Cobalt voyager,9134828,2026-02-14,Tema,Jet A1,26380.0,Terminal
+Cobalt voyager,9134828,2026-03-31,Lome,Gasoline,47950.0,Broker
+Cobalt voyager,9134828,2026-04-13,Lagos,Diesel,42260.0,Terminal
+Cobalt voyager,9134828,2026-04-23,Tema,Jet A1,43990.0,Terminal
+Cobalt voyager,9134828,2026-05-14,Lagos,Jet A1,24120.0,Terminal
+Cobalt voyager,9134828,2026-05-18,Lagos,Gasoline,44890.0,Terminal
+Cobalt voyager,9134828,2026-05-22,Takoradi,Diesel,39910.0,Terminal
+Cobalt voyager,9134828,2026-05-24,Lome,Diesel,25470.0,Terminal
+Cobalt voyager,9134828,2026-05-31,Lome,Diesel,34910.0,Terminal
+Cobalt voyager,9134828,2026-09-02,Takoradi,Diesel,28800.0,Agent
+Crimson tide,9135224,2026-01-03,Tema,Gasoline,25490.0,Terminal
+Crimson tide,9135224,2026-01-08,Abidjan,Gasoline,46550.0,Terminal
+Crimson tide,9135224,2026-01-21,Lome,Diesel,37850.0,Terminal
+Crimson tide,9135224,2026-03-01,Tema,Gasoline,25500.0,Agent
+Crimson tide,9135224,2026-03-04,Tema,Gasoline,33570.0,Terminal
+Crimson tide,9135224,2026-03-04,Abidjan,Diesel,30900.0,Agent
+Crimson tide,9135224,2026-03-06,Lagos,Gasoline,49170.0,Terminal
+Crimson tide,9135224,2026-03-13,Lome,Diesel,47250.0,Terminal
+Crimson tide,9135224,2026-04-03,Abidjan,Diesel,30930.0,Terminal
+Crimson tide,9135224,2026-04-09,Abidjan,Gasoline,30730.0,Terminal
+Crimson tide,9135224,2026-04-11,Lome,Diesel,42450.0,Terminal
+Crimson tide,9135224,2026-05-09,Lagos,Gasoline,27980.0,Terminal
+Crimson tide,9135224,2026-05-22,Takoradi,Jet A1,35590.0,Terminal
+Crimson tide,9135224,2026-08-01,Abidjan,Gasoline,46500.0,Agent
+Crimson tide,9135224,2026-11-04,Lome,Diesel,42500.0,Agent
+Atlantic voyager,9141948,2026-02-12,Abidjan,Gasoline,20590.0,Terminal
+Atlantic voyager,9141948,2026-02-22,Lagos,Gasoline,23700.0,Terminal
+Atlantic voyager,9141948,2026-04-13,Takoradi,Gasoline,44590.0,Terminal
+Atlantic voyager,9141948,2026-05-04,Tema,Gasoline,34630.0,Terminal
+Atlantic voyager,9141948,2026-05-18,Lagos,Gasoline,35850.0,Terminal
+Atlantic voyager,9141948,2026-12-02,Abidjan,Gasoline,20600.0,Agent
+Cobalt bay,9157478,2026-01-02,Lagos,Diesel,30100.0,Agent
+Cobalt bay,9157478,2026-01-15,Tema,Diesel,51050.0,Broker
+Cobalt bay,9157478,2026-02-01,Lagos,Diesel,30050.0,Terminal
+Cobalt bay,9157478,2026-02-01,Takoradi,Gasoline,48000.0,Agent
+Cobalt bay,9157478,2026-02-05,Lagos,Gasoline,43920.0,Terminal
+Cobalt bay,9157478,2026-02-07,Lagos,Gasoline,35010.0,Broker
+Cobalt bay,9157478,2026-02-12,Lagos,Jet A1,49400.0,Terminal
+Cobalt bay,9157478,2026-02-24,Lome,Diesel,21250.0,Terminal
+Cobalt bay,9157478,2026-02-25,Abidjan,Diesel,39800.0,Terminal
+Cobalt bay,9157478,2026-03-05,Lagos,Gasoline,35100.0,Agent
+Cobalt bay,9157478,2026-03-09,Lome,Gasoline,24860.0,Terminal
+Cobalt bay,9157478,2026-03-10,Lagos,Gasoline,44730.0,Terminal
+Cobalt bay,9157478,2026-03-20,Tema,Diesel,32360.0,Terminal
+Cobalt bay,9157478,2026-03-22,Lome,Diesel,44800.0,Terminal
+Cobalt bay,9157478,2026-03-26,Lagos,Jet A1,19830.0,Terminal
+Cobalt bay,9157478,2026-05-02,Lagos,Gasoline,43900.0,Agent
+Cobalt bay,9157478,2026-05-03,Lagos,Gasoline,35110.0,Terminal
+Cobalt bay,9157478,2026-07-02,Lagos,Gasoline,35000.0,Agent
+Ivory pearl,9173393,2026-01-05,Tema,Gasoline,26360.0,Broker
+Ivory pearl,9173393,2026-01-15,Lagos,Gasoline,28810.0,Terminal
+Ivory pearl,9173393,2026-01-16,Tema,Jet A1,33830.0,Terminal
+Ivory pearl,9173393,2026-01-20,Abidjan,Diesel,331800.0,Broker
+Ivory pearl,9173393,2026-01-23,Abidjan,Diesel,37190.0,Terminal
+Ivory pearl,9173393,2026-02-03,Abidjan,Diesel,35720.0,Terminal
+Ivory pearl,9173393,2026-02-05,Abidjan,Gasoline,43800.0,Agent
+Ivory pearl,9173393,2026-02-28,Lome,Gasoline,51790.0,Terminal
+Ivory pearl,9173393,2026-03-08,Lome,Gasoline,26060.0,Terminal
+Ivory pearl,9173393,2026-03-19,Lagos,Gasoline,43670.0,Terminal
+Ivory pearl,9173393,2026-03-24,Abidjan,Gasoline,38370.0,Terminal
+Ivory pearl,9173393,2026-04-22,Lagos,Gasoline,22790.0,Broker
+Ivory pearl,9173393,2026-05-02,Abidjan,Gasoline,43770.0,Terminal
+Ivory pearl,9173393,2026-05-11,Lome,Diesel,21050.0,Terminal
+Golden pearl,9200885,2026-01-01,Lagos,Gasoline,40750.0,Terminal
+Golden pearl,9200885,2026-01-12,Lagos,Gasoline,32780.0,Broker
+Golden pearl,9200885,2026-02-05,Lagos,Diesel,27160.0,Terminal
+Golden pearl,9200885,2026-02-16,Abidjan,Jet A1,43030.0,Terminal
+Golden pearl,9200885,2026-03-28,Lagos,Gasoline,48560.0,Terminal
+Golden pearl,9200885,2026-04-07,Lagos,Diesel,31770.0,Terminal
+Golden pearl,9200885,2026-04-16,Lagos,Diesel,22280.0,Terminal
+Golden pearl,9200885,2026-04-29,Lagos,Diesel,22550.0,Terminal
+Golden pearl,9200885,2026-04-30,Lagos,Gasoline,47050.0,Terminal
+Golden pearl,9200885,2026-05-05,Lagos,Gasoline,42090.0,Terminal
+Golden pearl,9200885,2026-05-10,Lagos,Jet A1,50490.0,Terminal
+Golden pearl,9200885,2026-10-05,Lagos,Jet A1,50500.0,Agent
+Crimson falcon,9253923,2026-01-03,Lagos,Gasoline,32690.0,Terminal
+Crimson falcon,9253923,2026-01-21,Lagos,Jet A1,39970.0,Terminal
+Crimson falcon,9253923,2026-02-09,Lagos,Diesel,45320.0,Terminal
+Crimson falcon,9253923,2026-02-10,Lagos,Diesel,38820.0,Terminal
+Crimson falcon,9253923,2026-02-13,Tema,Diesel,45060.0,Terminal
+Crimson falcon,9253923,2026-02-18,Lome,Diesel,51200.0,Terminal
+Crimson falcon,9253923,2026-02-20,Tema,Gasoline,43460.0,Terminal
+Crimson falcon,9253923,2026-03-17,Lome,Gasoline,34560.0,Terminal
+Crimson falcon,9253923,2026-04-11,Lagos,Diesel,48800.0,Terminal
+Crimson falcon,9253923,2026-05-16,Abidjan,Jet A1,30060.0,Terminal
+Crimson falcon,9253923,2026-05-27,Takoradi,Diesel,47170.0,Terminal
+Crimson falcon,9253923,2026-05-31,Lagos,Jet A1,23120.0,Terminal
+Crimson falcon,9253923,2026-09-02,Lagos,Diesel,45300.0,Agent
+Crimson falcon,9253923,2026-10-02,Lagos,Diesel,38800.0,Agent
+Jade voyager,9306990,2026-01-01,Abidjan,Gasoline,22390.0,Terminal
+Jade voyager,9306990,2026-01-05,Lome,Jet A1,40800.0,Agent
+Jade voyager,9306990,2026-01-11,Lagos,Gasoline,29080.0,Broker
+Jade voyager,9306990,2026-01-28,Lome,Diesel,40600.0,Terminal
+Jade voyager,9306990,2026-02-04,Lagos,Diesel,24610.0,Terminal
+Jade voyager,9306990,2026-03-23,Lome,Gasoline,47120.0,Terminal
+Jade voyager,9306990,2026-04-02,Lagos,Diesel,24600.0,Agent
+Jade voyager,9306990,2026-04-08,Tema,Gasoline,29160.0,Terminal
+Jade voyager,9306990,2026-04-25,Lagos,Diesel,35020.0,Terminal
+Jade voyager,9306990,2026-05-01,Lome,Jet A1,40810.0,Terminal
+Jade voyager,9306990,2026-05-15,Takoradi,Jet A1,40730.0,Terminal
+Jade voyager,9306990,2026-05-23,Abidjan,Gasoline,30260.0,Terminal
+Coral voyager,9312248,2026-01-04,Tema,Diesel,19500.0,Agent
+Coral voyager,9312248,2026-01-05,Lagos,Gasoline,45200.0,Agent
+Coral voyager,9312248,2026-01-20,Tema,Diesel,18800.0,Terminal
+Coral voyager,9312248,2026-02-05,Tema,Diesel,49840.0,Terminal
+Coral voyager,9312248,2026-02-11,Tema,Diesel,36170.0,Terminal
+Coral voyager,9312248,2026-02-21,Lagos,Gasoline,40740.0,Terminal
+Coral voyager,9312248,2026-02-28,Lome,Gasoline,32130.0,Terminal
+Coral voyager,9312248,2026-03-14,Lome,Diesel,33510.0,Terminal
+Coral voyager,9312248,2026-03-15,Tema,Gasoline,30530.0,Terminal
+Coral voyager,9312248,2026-04-01,Tema,Diesel,19460.0,Terminal
+Coral voyager,9312248,2026-04-17,Tema,Jet A1,32060.0,Terminal
+Coral voyager,9312248,2026-05-01,Lagos,Gasoline,45200.0,Terminal
+Coral voyager,9312248,2026-05-03,Lagos,Gasoline,43500.0,Agent
+Coral voyager,9312248,2026-05-09,Lome,Gasoline,25580.0,Terminal
+Amber bay,9315939,2026-01-09,Lome,Diesel,34040.0,Terminal
+Amber bay,9315939,2026-01-22,Tema,Gasoline,19230.0,Terminal
+Amber bay,9315939,2026-02-03,Abidjan,Gasoline,39490.0,Terminal
+Amber bay,9315939,2026-02-19,Lagos,Gasoline,47960.0,Terminal
+Amber bay,9315939,2026-02-27,Lagos,Diesel,39300.0,Terminal
+Amber bay,9315939,2026-03-13,Lagos,Gasoline,29920.0,Terminal
+Amber bay,9315939,2026-03-14,Lagos,Gasoline,44590.0,Terminal
+Amber bay,9315939,2026-03-23,Lagos,Gasoline,24150.0,Terminal
+Amber bay,9315939,2026-04-06,Tema,Gasoline,24720.0,Terminal
+Amber bay,9315939,2026-05-03,Abidjan,Diesel,26100.0,Agent
+Amber bay,9315939,2026-05-25,Tema,Diesel,48590.0,Terminal
+Amber bay,9315939,2026-05-27,Lagos,Diesel,44580.0,Terminal
+Golden star,9325635,2026-01-03,Abidjan,Diesel,47790.0,Terminal
+Golden star,9325635,2026-01-07,Abidjan,Diesel,24500.0,Terminal
+Golden star,9325635,2026-01-20,Takoradi,Diesel,40680.0,Terminal
+Golden star,9325635,2026-02-09,Lagos,Gasoline,20250.0,Broker
+Golden star,9325635,2026-02-11,Tema,Diesel,51350.0,Terminal
+Golden star,9325635,2026-02-20,Lagos,Diesel,20080.0,Terminal
+Golden star,9325635,2026-03-01,Tema,Diesel,37360.0,Terminal
+Golden star,9325635,2026-03-01,Abidjan,Diesel,47800.0,Agent
+Golden star,9325635,2026-03-04,Lome,Gasoline,31600.0,Agent
+Golden star,9325635,2026-03-05,Lome,Gasoline,37990.0,Terminal
+Golden star,9325635,2026-03-11,Lome,Jet A1,48290.0,Terminal
+Golden star,9325635,2026-03-14,Tema,Diesel,51980.0,Terminal
+Golden star,9325635,2026-03-23,Lome,Diesel,39770.0,Terminal
+Golden star,9325635,2026-03-31,Lagos,Diesel,36770.0,Terminal
+Golden star,9325635,2026-04-18,Lome,Gasoline,42350.0,Terminal
+Golden star,9325635,2026-04-22,Lagos,Diesel,21600.0,Terminal
+Golden star,9325635,2026-05-06,Lagos,Gasoline,42570.0,Terminal
+Golden star,9325635,2026-05-24,Lagos,Gasoline,24690.0,Terminal
+Golden star,9325635,2026-08-01,Tema,Diesel,49800.0,Agent
+Amber star,9354911,2026-01-06,Tema,Gasoline,47930.0,Terminal
+Amber star,9354911,2026-01-14,Lagos,Jet A1,37030.0,Terminal
+Amber star,9354911,2026-01-16,Takoradi,Gasoline,31490.0,Terminal
+Amber star,9354911,2026-02-02,Lagos,Diesel,21940.0,Terminal
+Amber star,9354911,2026-02-06,Lome,Gasoline,50150.0,Terminal
+Amber star,9354911,2026-02-27,Tema,Diesel,50680.0,Terminal
+Amber star,9354911,2026-03-11,Tema,Jet A1,18850.0,Terminal
+Amber star,9354911,2026-03-13,Tema,Diesel,43060.0,Terminal
+Amber star,9354911,2026-04-08,Takoradi,Gasoline,19530.0,Terminal
+Amber star,9354911,2026-04-25,Tema,Gasoline,47430.0,Terminal
+Amber star,9354911,2026-05-16,Lagos,Diesel,45300.0,Terminal
+Amber star,9354911,2026-05-23,Lome,Diesel,45480.0,Terminal
+Amber star,9354911,2026-05-25,Abidjan,Gasoline,25170.0,Terminal
+Amber star,9354911,2026-05-26,Takoradi,Gasoline,50690.0,Terminal
+Amber star,9354911,2026-06-02,Lome,Gasoline,50100.0,Agent
+Amber star,9354911,2026-08-04,Takoradi,Gasoline,19500.0,Agent
+Ivory falcon,9357872,2026-01-05,Abidjan,Diesel,50640.0,Terminal
+Ivory falcon,9357872,2026-02-02,Tema,Jet A1,34910.0,Terminal
+Ivory falcon,9357872,2026-02-22,Lagos,Diesel,49400.0,Terminal
+Ivory falcon,9357872,2026-02-26,Lome,Diesel,24160.0,Terminal
+Ivory falcon,9357872,2026-03-05,Tema,Gasoline,23000.0,Agent
+Ivory falcon,9357872,2026-03-23,Lome,Diesel,27030.0,Terminal
+Ivory falcon,9357872,2026-04-23,Lagos,Gasoline,23820.0,Terminal
+Ivory falcon,9357872,2026-04-29,Tema,Jet A1,28830.0,Terminal
+Ivory falcon,9357872,2026-05-03,Tema,Gasoline,23040.0,Terminal
+Ivory falcon,9357872,2026-05-09,Tema,Gasoline,29170.0,Terminal
+Ivory falcon,9357872,2026-05-15,Lagos,Jet A1,29960.0,Terminal
+Ivory falcon,9357872,2026-05-25,Takoradi,Diesel,45230.0,Terminal
+Ivory falcon,9357872,2026-06-03,Lagos,Diesel,40500.0,Agent
+Ivory falcon,9357872,2026-09-05,Tema,Gasoline,29200.0,Agent
+Northern meridian,9370094,2026-01-07,Lagos,Diesel,19990.0,Terminal
+Northern meridian,9370094,2026-01-15,Abidjan,Gasoline,44430.0,Terminal
+Northern meridian,9370094,2026-02-01,Lome,Diesel,30020.0,Terminal
+Northern meridian,9370094,2026-02-03,Takoradi,Diesel,24400.0,Agent
+Northern meridian,9370094,2026-02-04,Tema,Diesel,19600.0,Agent
+Northern meridian,9370094,2026-02-05,Lagos,Gasoline,27700.0,Agent
+Northern meridian,9370094,2026-02-07,Lome,Diesel,29570.0,Terminal
+Northern meridian,9370094,2026-03-02,Takoradi,Diesel,24360.0,Terminal
+Northern meridian,9370094,2026-03-03,Abidjan,Jet A1,32400.0,Agent
+Northern meridian,9370094,2026-03-10,Abidjan,Gasoline,42930.0,Terminal
+Northern meridian,9370094,2026-03-25,Abidjan,Gasoline,28000.0,Terminal
+Northern meridian,9370094,2026-04-02,Tema,Diesel,19580.0,Terminal
+Northern meridian,9370094,2026-04-10,Lome,Gasoline,23080.0,Terminal
+Northern meridian,9370094,2026-04-26,Lagos,Gasoline,43970.0,Terminal
+Northern meridian,9370094,2026-05-02,Lagos,Gasoline,27690.0,Terminal
+Northern meridian,9370094,2026-05-20,Lome,Diesel,37390.0,Terminal
+Northern meridian,9370094,2026-10-03,Abidjan,Gasoline,42900.0,Agent
+Northern meridian,9370094,2026-10-04,Lome,Gasoline,23100.0,Agent
+Atlantic bay,9427665,2026-01-04,Lagos,Gasoline,37320.0,Terminal
+Atlantic bay,9427665,2026-01-06,Lagos,Gasoline,36560.0,Terminal
+Atlantic bay,9427665,2026-01-19,Lagos,Gasoline,39690.0,Terminal
+Atlantic bay,9427665,2026-02-09,Tema,Diesel,33370.0,Broker
+Atlantic bay,9427665,2026-02-16,Lagos,Diesel,35930.0,Terminal
+Atlantic bay,9427665,2026-02-19,Abidjan,Jet A1,47410.0,Terminal
+Atlantic bay,9427665,2026-02-23,Lagos,Jet A1,24490.0,Terminal
+Atlantic bay,9427665,2026-03-18,Lome,Gasoline,29100.0,Terminal
+Atlantic bay,9427665,2026-03-25,Lome,Diesel,35480.0,Terminal
+Atlantic bay,9427665,2026-03-30,Lome,Diesel,29910.0,Terminal
+Atlantic bay,9427665,2026-04-01,Lagos,Gasoline,37300.0,Agent
+Atlantic bay,9427665,2026-04-04,Lome,Diesel,44990.0,Terminal
+Atlantic bay,9427665,2026-05-05,Lome,Diesel,42090.0,Terminal
+Atlantic bay,9427665,2026-05-15,Lagos,Diesel,22920.0,Broker
+Atlantic bay,9427665,2026-05-19,Lagos,Diesel,42560.0,Terminal
+Atlantic bay,9427665,2026-05-31,Lagos,Gasoline,51780.0,Terminal
+Atlantic bay,9427665,2026-12-03,Tema,Gasoline,31700.0,Agent
+Harbour star,9448645,2026-01-07,Tema,Diesel,50330.0,Terminal
+Harbour star,9448645,2026-01-20,Lagos,Diesel,44420.0,Terminal
+Harbour star,9448645,2026-01-25,Takoradi,Diesel,39420.0,Terminal
+Harbour star,9448645,2026-01-29,Lagos,Jet A1,21990.0,Terminal
+Harbour star,9448645,2026-02-05,Lagos,Diesel,45570.0,Terminal
+Harbour star,9448645,2026-02-25,Lagos,Gasoline,25500.0,Broker
+Harbour star,9448645,2026-03-05,Tema,Gasoline,35770.0,Terminal
+Harbour star,9448645,2026-03-09,Tema,Gasoline,29080.0,Terminal
+Harbour star,9448645,2026-03-11,Tema,Jet A1,24560.0,Terminal
+Harbour star,9448645,2026-03-19,Lagos,Diesel,47360.0,Terminal
+Harbour star,9448645,2026-03-28,Lome,Gasoline,45790.0,Terminal
+Harbour star,9448645,2026-04-09,Lagos,Jet A1,35210.0,Terminal
+Harbour star,9448645,2026-05-03,Tema,Gasoline,35800.0,Agent
+Harbour star,9448645,2026-07-01,Tema,Diesel,50300.0,Agent
+Harbour star,9448645,2026-09-03,Tema,Gasoline,29100.0,Agent
+Harbour star,9448645,2026-09-04,Lagos,Jet A1,35200.0,Agent
+Harbour star,9448645,2026-11-03,Tema,Jet A1,24600.0,Agent
+Cobalt crest,9468841,2026-01-12,Tema,Diesel,24310.0,Terminal
+Cobalt crest,9468841,2026-01-24,Lagos,Diesel,30160.0,Terminal
+Cobalt crest,9468841,2026-01-30,Lome,Gasoline,34050.0,Terminal
+Cobalt crest,9468841,2026-02-26,Abidjan,Gasoline,23150.0,Terminal
+Cobalt crest,9468841,2026-03-01,Takoradi,Diesel,32970.0,Terminal
+Cobalt crest,9468841,2026-03-16,Abidjan,Diesel,42830.0,Terminal
+Cobalt crest,9468841,2026-03-24,Takoradi,Gasoline,46920.0,Terminal
+Cobalt crest,9468841,2026-05-26,Takoradi,Gasoline,22700.0,Terminal
+Cobalt crest,9468841,2026-05-27,Lome,Diesel,30090.0,Terminal
+Cobalt crest,9468841,2026-05-28,Lome,Jet A1,30800.0,Terminal
+Cobalt crest,9468841,2026-08-04,Lagos,Diesel,43100.0,Agent
+Cobalt crest,9468841,2026-12-01,Tema,Diesel,24300.0,Agent
+Harbour spirit,9485978,2026-01-02,Tema,Gasoline,25100.0,Agent
+Harbour spirit,9485978,2026-01-03,Takoradi,Jet A1,22710.0,Terminal
+Harbour spirit,9485978,2026-01-05,Lome,Jet A1,39700.0,Agent
+Harbour spirit,9485978,2026-01-23,Lagos,Gasoline,35870.0,Terminal
+Harbour spirit,9485978,2026-01-27,Takoradi,Diesel,35660.0,Terminal
+Harbour spirit,9485978,2026-02-03,Tema,Gasoline,49430.0,Terminal
+Harbour spirit,9485978,2026-03-07,Lagos,Jet A1,50530.0,Terminal
+Harbour spirit,9485978,2026-03-09,Abidjan,Gasoline,40930.0,Terminal
+Harbour spirit,9485978,2026-03-18,Lagos,Diesel,40680.0,Terminal
+Harbour spirit,9485978,2026-03-20,Takoradi,Gasoline,32260.0,Broker
+Harbour spirit,9485978,2026-03-21,Abidjan,Gasoline,28970.0,Terminal
+Harbour spirit,9485978,2026-04-08,Lome,Diesel,40250.0,Terminal
+Harbour spirit,9485978,2026-04-24,Lome,Gasoline,35490.0,Terminal
+Harbour spirit,9485978,2026-04-29,Lagos,Gasoline,43550.0,Terminal
+Harbour spirit,9485978,2026-05-01,Lome,Jet A1,39730.0,Terminal
+Harbour spirit,9485978,2026-05-22,Takoradi,Diesel,31100.0,Terminal
+Harbour spirit,9485978,2026-07-03,Lagos,Jet A1,50500.0,Agent
+Harbour spirit,9485978,2026-08-04,Lome,Diesel,40200.0,Agent
+Crimson meridian,9493248,2026-01-10,Lagos,Jet A1,31590.0,Terminal
+Crimson meridian,9493248,2026-01-21,Tema,Diesel,48230.0,Terminal
+Crimson meridian,9493248,2026-01-24,Takoradi,Diesel,47060.0,Terminal
+Crimson meridian,9493248,2026-03-05,Lagos,Diesel,26870.0,Terminal
+Crimson meridian,9493248,2026-03-19,Lagos,Jet A1,23720.0,Terminal
+Crimson meridian,9493248,2026-04-13,Abidjan,Gasoline,21580.0,Terminal
+Crimson meridian,9493248,2026-05-08,Lome,Gasoline,38890.0,Terminal
+Crimson meridian,9493248,2026-08-05,Lome,Gasoline,38900.0,Agent
+Golden meridian,9578191,2026-01-03,Lome,Gasoline,29720.0,Terminal
+Golden meridian,9578191,2026-01-15,Takoradi,Gasoline,37420.0,Terminal
+Golden meridian,9578191,2026-01-18,Lagos,Gasoline,21640.0,Terminal
+Golden meridian,9578191,2026-01-20,Lome,Diesel,29250.0,Terminal
+Golden meridian,9578191,2026-02-02,Lome,Gasoline,30690.0,Terminal
+Golden meridian,9578191,2026-02-12,Tema,Gasoline,35380.0,Terminal
+Golden meridian,9578191,2026-02-17,Lagos,Diesel,24310.0,Terminal
+Golden meridian,9578191,2026-02-18,Abidjan,Gasoline,34190.0,Terminal
+Golden meridian,9578191,2026-02-28,Lagos,Diesel,39920.0,Terminal
+Golden meridian,9578191,2026-03-01,Lome,Gasoline,29700.0,Agent
+Golden meridian,9578191,2026-03-15,Lagos,Gasoline,19990.0,Terminal
+Golden meridian,9578191,2026-03-31,Tema,Gasoline,38860.0,Terminal
+Golden meridian,9578191,2026-04-10,Abidjan,Gasoline,48000.0,Terminal
+Golden meridian,9578191,2026-04-30,Abidjan,Diesel,23600.0,Terminal
+Golden meridian,9578191,2026-05-01,Tema,Gasoline,27320.0,Broker
+Golden meridian,9578191,2026-05-08,Tema,Jet A1,38680.0,Terminal
+Golden meridian,9578191,2026-05-19,Lagos,Gasoline,40600.0,Terminal
+Golden meridian,9578191,2026-12-02,Tema,Gasoline,35400.0,Agent
+Eastern crest,9590400,2026-01-01,Lome,Diesel,27100.0,Agent
+Eastern crest,9590400,2026-01-19,Lome,Diesel,27500.0,Terminal
+Eastern crest,9590400,2026-02-14,Takoradi,Diesel,38310.0,Terminal
+Eastern crest,9590400,2026-02-28,Lome,Jet A1,29980.0,Terminal
+Eastern crest,9590400,2026-03-12,Abidjan,Diesel,43300.0,Terminal
+Eastern crest,9590400,2026-03-16,Lagos,Diesel,51450.0,Terminal
+Eastern crest,9590400,2026-03-23,Abidjan,Gasoline,26350.0,Terminal
+Eastern crest,9590400,2026-03-30,Abidjan,Gasoline,34210.0,Terminal
+Eastern crest,9590400,2026-04-05,Takoradi,Diesel,25040.0,Terminal
+Eastern crest,9590400,2026-04-05,Lome,Diesel,33800.0,Agent
+Eastern crest,9590400,2026-04-21,Lagos,Gasoline,45540.0,Terminal
+Eastern crest,9590400,2026-04-26,Lagos,Diesel,36710.0,Broker
+Eastern crest,9590400,2026-04-27,Tema,Diesel,20110.0,Terminal
+Eastern crest,9590400,2026-05-02,Lagos,Gasoline,18440.0,Terminal
+Eastern crest,9590400,2026-05-04,Lome,Diesel,33770.0,Terminal
+Eastern crest,9590400,2026-05-30,Tema,Diesel,19220.0,Terminal

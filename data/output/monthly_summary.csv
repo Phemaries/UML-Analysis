@@ -1,0 +1,105 @@
+load_port,product,month,month_name,quantity_mt
+Abidjan,Diesel,1,January,491920.0
+Abidjan,Diesel,2,February,98480.0
+Abidjan,Diesel,3,March,252790.0
+Abidjan,Diesel,4,April,205090.0
+Abidjan,Diesel,5,May,77490.0
+Abidjan,Gasoline,1,January,143150.0
+Abidjan,Gasoline,2,February,208400.0
+Abidjan,Gasoline,3,March,239760.0
+Abidjan,Gasoline,4,April,153200.0
+Abidjan,Gasoline,5,May,99200.0
+Abidjan,Gasoline,8,August,46500.0
+Abidjan,Gasoline,10,October,42900.0
+Abidjan,Gasoline,12,December,20600.0
+Abidjan,Jet A1,2,February,90440.0
+Abidjan,Jet A1,3,March,32400.0
+Abidjan,Jet A1,4,April,24860.0
+Abidjan,Jet A1,5,May,30060.0
+Abidjan,Jet A1,9,September,50300.0
+Lagos,Diesel,1,January,325030.0
+Lagos,Diesel,2,February,748320.0
+Lagos,Diesel,3,March,484550.0
+Lagos,Diesel,4,April,368930.0
+Lagos,Diesel,5,May,363870.0
+Lagos,Diesel,6,June,66000.0
+Lagos,Diesel,8,August,43100.0
+Lagos,Diesel,9,September,45300.0
+Lagos,Diesel,10,October,38800.0
+Lagos,Diesel,12,December,44000.0
+Lagos,Gasoline,1,January,450570.0
+Lagos,Gasoline,2,February,482650.0
+Lagos,Gasoline,3,March,415580.0
+Lagos,Gasoline,4,April,466440.0
+Lagos,Gasoline,5,May,544290.0
+Lagos,Gasoline,7,July,35000.0
+Lagos,Gasoline,8,August,20000.0
+Lagos,Gasoline,10,October,29600.0
+Lagos,Jet A1,1,January,212920.0
+Lagos,Jet A1,2,February,140940.0
+Lagos,Jet A1,3,March,126650.0
+Lagos,Jet A1,4,April,35210.0
+Lagos,Jet A1,5,May,229020.0
+Lagos,Jet A1,7,July,50500.0
+Lagos,Jet A1,9,September,35200.0
+Lagos,Jet A1,10,October,50500.0
+Lome,Diesel,1,January,242160.0
+Lome,Diesel,2,February,178660.0
+Lome,Diesel,3,March,368150.0
+Lome,Diesel,4,April,273400.0
+Lome,Diesel,5,May,370850.0
+Lome,Diesel,8,August,40200.0
+Lome,Diesel,11,November,42500.0
+Lome,Gasoline,1,January,181040.0
+Lome,Gasoline,2,February,203730.0
+Lome,Gasoline,3,March,420870.0
+Lome,Gasoline,4,April,210760.0
+Lome,Gasoline,5,May,101720.0
+Lome,Gasoline,6,June,50100.0
+Lome,Gasoline,8,August,38900.0
+Lome,Gasoline,10,October,23100.0
+Lome,Jet A1,1,January,103600.0
+Lome,Jet A1,2,February,29980.0
+Lome,Jet A1,3,March,83900.0
+Lome,Jet A1,4,April,65470.0
+Lome,Jet A1,5,May,150220.0
+Lome,Jet A1,7,July,35600.0
+Takoradi,Diesel,1,January,162820.0
+Takoradi,Diesel,2,February,160380.0
+Takoradi,Diesel,3,March,57330.0
+Takoradi,Diesel,4,April,65360.0
+Takoradi,Diesel,5,May,189310.0
+Takoradi,Diesel,9,September,28800.0
+Takoradi,Gasoline,1,January,175320.0
+Takoradi,Gasoline,2,February,123130.0
+Takoradi,Gasoline,3,March,141160.0
+Takoradi,Gasoline,4,April,99000.0
+Takoradi,Gasoline,5,May,73390.0
+Takoradi,Gasoline,8,August,58400.0
+Takoradi,Jet A1,1,January,57300.0
+Takoradi,Jet A1,2,February,35410.0
+Takoradi,Jet A1,5,May,76320.0
+Takoradi,Jet A1,6,June,34600.0
+Tema,Diesel,1,January,231590.0
+Tema,Diesel,2,February,334360.0
+Tema,Diesel,3,March,164760.0
+Tema,Diesel,4,April,59150.0
+Tema,Diesel,5,May,169770.0
+Tema,Diesel,7,July,50300.0
+Tema,Diesel,8,August,49800.0
+Tema,Diesel,11,November,26800.0
+Tema,Diesel,12,December,72600.0
+Tema,Gasoline,1,January,192510.0
+Tema,Gasoline,2,February,272910.0
+Tema,Gasoline,3,March,216310.0
+Tema,Gasoline,4,April,131930.0
+Tema,Gasoline,5,May,230010.0
+Tema,Gasoline,8,August,22500.0
+Tema,Gasoline,9,September,58300.0
+Tema,Gasoline,12,December,67100.0
+Tema,Jet A1,1,January,33830.0
+Tema,Jet A1,2,February,61290.0
+Tema,Jet A1,3,March,43410.0
+Tema,Jet A1,4,April,104880.0
+Tema,Jet A1,5,May,38680.0
+Tema,Jet A1,11,November,24600.0

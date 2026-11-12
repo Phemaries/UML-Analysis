@@ -1,0 +1,34 @@
+product,month,month_name,quantity_mt
+Diesel,1,January,1453520.0
+Diesel,2,February,1520200.0
+Diesel,3,March,1327580.0
+Diesel,4,April,971930.0
+Diesel,5,May,1171290.0
+Diesel,6,June,66000.0
+Diesel,7,July,50300.0
+Diesel,8,August,133100.0
+Diesel,9,September,74100.0
+Diesel,10,October,38800.0
+Diesel,11,November,69300.0
+Diesel,12,December,116600.0
+Gasoline,1,January,1142590.0
+Gasoline,2,February,1290820.0
+Gasoline,3,March,1433680.0
+Gasoline,4,April,1061330.0
+Gasoline,5,May,1048610.0
+Gasoline,6,June,50100.0
+Gasoline,7,July,35000.0
+Gasoline,8,August,186300.0
+Gasoline,9,September,58300.0
+Gasoline,10,October,95600.0
+Gasoline,12,December,87700.0
+Jet A1,1,January,407650.0
+Jet A1,2,February,358060.0
+Jet A1,3,March,286360.0
+Jet A1,4,April,230420.0
+Jet A1,5,May,524300.0
+Jet A1,6,June,34600.0
+Jet A1,7,July,86100.0
+Jet A1,9,September,85500.0
+Jet A1,10,October,50500.0
+Jet A1,11,November,24600.0

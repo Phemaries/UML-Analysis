@@ -1,0 +1,371 @@
+vessel_name,imo,load_date,load_port,product,quantity_mt,data_source,priority,reason
+Eastern bay,9033440,2026-01-05,Takoradi,Gasoline,,Broker,3,Duplicated Loading Records
+Eastern bay,9033440,2026-02-08,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Eastern bay,9033440,2026-02-28,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Eastern bay,9033440,2026-03-15,Abidjan,Diesel,43840.0,Broker,3,Duplicated Loading Records
+Eastern bay,9033440,2026-04-04,Takoradi,Diesel,,Broker,3,Duplicated Loading Records
+Eastern bay,9033440,,Lagos,Diesel,47000.0,Agent,2,Duplicated Loading Records
+Eastern bay,9033440,,Lagos,Diesel,47400.0,Agent,2,Duplicated Loading Records
+Eastern bay,9033440,,Lagos,Diesel,38600.0,Agent,2,Duplicated Loading Records
+Eastern bay,9033440,,Lome,Jet A1,38900.0,Agent,2,Duplicated Loading Records
+Eastern voyager,9043407,2026-01-12,Lagos,Diesel,44050.0,Broker,3,Duplicated Loading Records
+Eastern voyager,9043407,2026-04-13,Abidjan,Gasoline,19330.0,Broker,3,Duplicated Loading Records
+Eastern voyager,9043407,2026-04-28,Tema,Gasoline,30620.0,Broker,3,Duplicated Loading Records
+Eastern tide,9047362,2026-01-03,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Eastern tide,9047362,2026-03-05,Lagos,Diesel,50860.0,Broker,3,Duplicated Loading Records
+Eastern tide,9047362,2026-03-14,Lagos,Diesel,39900.0,Broker,3,Duplicated Loading Records
+Eastern tide,9047362,2026-03-14,Lagos,Diesel,39900.0,Broker,3,Duplicated Loading Records
+Eastern tide,9047362,2026-03-25,Lome,Gasoline,36270.0,Broker,3,Duplicated Loading Records
+Eastern tide,9047362,2026-05-28,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Eastern tide,9047362,,Lome,Gasoline,45700.0,Agent,2,Duplicated Loading Records
+Golden falcon,9053593,2026-01-04,Lagos,Diesel,41910.0,Broker,3,Duplicated Loading Records
+Golden falcon,9053593,2026-02-12,Tema,Diesel,48290.0,Broker,3,Duplicated Loading Records
+Golden falcon,9053593,2026-03-27,Lagos,Diesel,21190.0,Broker,3,Duplicated Loading Records
+Golden falcon,9053593,2026-04-04,Lagos,Diesel,44700.0,Agent,2,Duplicated Loading Records
+Golden falcon,9053593,2026-04-04,Lagos,Diesel,44710.0,Broker,3,Duplicated Loading Records
+Golden falcon,9053593,2026-05-17,Tema,Diesel,,Broker,3,Duplicated Loading Records
+Golden falcon,9053593,,Lagos,Diesel,50400.0,Agent,2,Duplicated Loading Records
+Amber crest,9057953,2026-02-11,Lagos,Diesel,36890.0,Broker,3,Duplicated Loading Records
+Amber crest,9057953,2026-05-05,Lagos,Diesel,,Agent,2,Duplicated Loading Records
+Amber crest,9057953,2026-05-06,Abidjan,Diesel,,Broker,3,Duplicated Loading Records
+Amber crest,9057953,2026-05-08,Lagos,Gasoline,20000.0,Broker,3,Duplicated Loading Records
+Amber crest,9057953,2026-05-14,Lagos,Jet A1,26040.0,Broker,3,Duplicated Loading Records
+Amber crest,9057953,2026-05-21,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Amber crest,9057953,2026-05-24,Lagos,Jet A1,,Broker,3,Duplicated Loading Records
+Amber crest,9057953,,Tema,Gasoline,45300.0,Agent,2,Duplicated Loading Records
+Ivory bay,9100786,2026-01-04,Lome,Jet A1,23100.0,Broker,3,Duplicated Loading Records
+Ivory bay,9100786,2026-02-10,Lagos,Gasoline,29580.0,Broker,3,Duplicated Loading Records
+Ivory bay,9100786,2026-04-02,Takoradi,Diesel,18100.0,Broker,3,Duplicated Loading Records
+Ivory bay,9100786,2026-05-23,Lome,Gasoline,,Broker,3,Duplicated Loading Records
+Ivory bay,9100786,,Lome,Gasoline,37200.0,Agent,2,Duplicated Loading Records
+Ivory star,9106376,2026-03-25,Abidjan,Diesel,44120.0,Broker,3,Duplicated Loading Records
+Ivory star,9106376,2026-04-03,Lagos,Gasoline,33840.0,Broker,3,Duplicated Loading Records
+Ivory star,9106376,2026-04-19,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Ivory star,9106376,2026-04-23,Lagos,Gasoline,50690.0,Broker,3,Duplicated Loading Records
+Ivory star,9106376,2026-05-30,Lagos,Jet A1,,Broker,3,Duplicated Loading Records
+Ivory star,9106376,,Lagos,Diesel,45100.0,Agent,2,Duplicated Loading Records
+Ivory star,9106376,,Lagos,Diesel,340000.0,Agent,2,Duplicated Loading Records
+Ivory star,9106376,,Lagos,Gasoline,50700.0,Agent,2,Duplicated Loading Records
+Ivory star,9106376,,Lagos,Gasoline,50700.0,Agent,2,Duplicated Loading Records
+Ivory star,9106376,,Lagos,Jet A1,45800.0,Agent,2,Duplicated Loading Records
+Ivory star,9106376,,Lome,Gasoline,22700.0,Agent,2,Duplicated Loading Records
+Ivory star,9106376,,Takoradi,Gasoline,31700.0,Agent,2,Duplicated Loading Records
+Harbour falcon,9118745,2026-03-17,Lome,Gasoline,,Broker,3,Duplicated Loading Records
+Harbour falcon,9118745,2026-04-04,Lome,Diesel,24520.0,Broker,3,Duplicated Loading Records
+Harbour falcon,9118745,2026-05-16,Lome,Diesel,,Broker,3,Duplicated Loading Records
+Harbour falcon,9118745,2026-05-20,Lagos,Diesel,35290.0,Broker,3,Duplicated Loading Records
+Harbour falcon,9118745,,Lome,Diesel,28000.0,Agent,2,Duplicated Loading Records
+Cobalt pearl,9121314,2026-01-03,Lagos,Diesel,33500.0,Agent,2,Duplicated Loading Records
+Cobalt pearl,9121314,2026-01-16,Tema,Diesel,,Broker,3,Duplicated Loading Records
+Cobalt pearl,9121314,2026-02-17,Abidjan,Gasoline,47180.0,Terminal,1,Duplicated Loading Records
+Cobalt pearl,9121314,2026-03-10,Lome,Diesel,32680.0,Broker,3,Duplicated Loading Records
+Cobalt pearl,9121314,2026-03-18,Lagos,Jet A1,32570.0,Broker,3,Duplicated Loading Records
+Cobalt pearl,9121314,2026-03-19,Lagos,Diesel,38390.0,Broker,3,Duplicated Loading Records
+Cobalt pearl,9121314,,Lagos,Diesel,38400.0,Agent,2,Duplicated Loading Records
+Cobalt voyager,9134828,2026-02-06,Takoradi,Gasoline,,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,2026-02-06,Takoradi,Gasoline,,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,2026-02-09,Takoradi,Diesel,28760.0,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,2026-05-14,Lagos,Jet A1,24120.0,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,2026-05-14,Lagos,Jet A1,24120.0,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,2026-05-18,Lagos,Gasoline,44890.0,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,2026-05-24,Lome,Diesel,,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,2026-05-31,Lome,Diesel,,Broker,3,Duplicated Loading Records
+Cobalt voyager,9134828,,Lome,Diesel,25500.0,Agent,2,Duplicated Loading Records
+Cobalt voyager,9134828,,Lome,Diesel,34900.0,Agent,2,Duplicated Loading Records
+Cobalt voyager,9134828,,Tema,Jet A1,26400.0,Agent,2,Duplicated Loading Records
+Cobalt voyager,9134828,,Tema,Jet A1,44000.0,Agent,2,Duplicated Loading Records
+Crimson tide,9135224,2026-01-03,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Crimson tide,9135224,2026-01-08,Abidjan,Gasoline,,Broker,3,Duplicated Loading Records
+Crimson tide,9135224,2026-04-03,Abidjan,Diesel,30930.0,Terminal,1,Duplicated Loading Records
+Crimson tide,9135224,2026-04-03,Abidjan,Diesel,30930.0,Broker,3,Duplicated Loading Records
+Crimson tide,9135224,2026-04-11,Lome,Diesel,,Broker,3,Duplicated Loading Records
+Crimson tide,9135224,2026-05-22,Takoradi,Jet A1,,Broker,3,Duplicated Loading Records
+Crimson tide,9135224,,Lome,Gasoline,41700.0,Agent,2,Duplicated Loading Records
+Crimson tide,9135224,,Lome,Diesel,47200.0,Agent,2,Duplicated Loading Records
+Atlantic voyager,9141948,2026-02-12,Abidjan,Gasoline,20590.0,Broker,3,Duplicated Loading Records
+Atlantic voyager,9141948,2026-04-13,Takoradi,Gasoline,44590.0,Broker,3,Duplicated Loading Records
+Atlantic voyager,9141948,2026-05-04,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Atlantic voyager,9141948,2026-05-18,Lagos,Gasoline,35850.0,Broker,3,Duplicated Loading Records
+Atlantic voyager,9141948,,Lagos,Gasoline,35900.0,Agent,2,Duplicated Loading Records
+Cobalt bay,9157478,2026-02-01,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Cobalt bay,9157478,2026-02-16,Abidjan,Jet A1,,Broker,3,Duplicated Loading Records
+Cobalt bay,9157478,2026-02-24,Lome,Diesel,,Broker,3,Duplicated Loading Records
+Cobalt bay,9157478,2026-03-09,Lome,Gasoline,,Broker,3,Duplicated Loading Records
+Cobalt bay,9157478,,Lome,Gasoline,,Agent,2,Duplicated Loading Records
+Cobalt bay,9157478,,Tema,Diesel,32400.0,Agent,2,Duplicated Loading Records
+Ivory pearl,9173393,2026-01-23,Abidjan,Diesel,,Broker,3,Duplicated Loading Records
+Ivory pearl,9173393,2026-02-03,Abidjan,Diesel,35720.0,Broker,3,Duplicated Loading Records
+Ivory pearl,9173393,2026-02-28,Lome,Gasoline,51790.0,Broker,3,Duplicated Loading Records
+Ivory pearl,9173393,2026-05-02,Abidjan,Gasoline,43770.0,Broker,3,Duplicated Loading Records
+Ivory pearl,9173393,2026-05-11,Lome,Diesel,21050.0,Terminal,1,Duplicated Loading Records
+Ivory pearl,9173393,,Lagos,Gasoline,22800.0,Agent,2,Duplicated Loading Records
+Ivory pearl,9173393,,Lome,Gasoline,26100.0,Agent,2,Duplicated Loading Records
+Golden pearl,9200885,2026-01-01,Lagos,Gasoline,40750.0,Broker,3,Duplicated Loading Records
+Golden pearl,9200885,2026-03-28,Lagos,Gasoline,48560.0,Broker,3,Duplicated Loading Records
+Golden pearl,9200885,2026-04-29,Lagos,Diesel,22550.0,Broker,3,Duplicated Loading Records
+Golden pearl,9200885,2026-05-05,Lagos,Gasoline,42090.0,Broker,3,Duplicated Loading Records
+Golden pearl,9200885,,Lagos,Gasoline,47000.0,Agent,2,Duplicated Loading Records
+Crimson falcon,9253923,2026-01-03,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Crimson falcon,9253923,2026-01-21,Lagos,Jet A1,,Broker,3,Duplicated Loading Records
+Crimson falcon,9253923,2026-02-09,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Crimson falcon,9253923,2026-03-17,Lome,Gasoline,35300.0,Broker,3,Duplicated Loading Records
+Crimson falcon,9253923,2026-04-11,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Crimson falcon,9253923,2026-05-31,Lagos,Jet A1,,Broker,3,Duplicated Loading Records
+Crimson falcon,9253923,,Lome,Gasoline,34600.0,Agent,2,Duplicated Loading Records
+Jade voyager,9306990,2026-01-01,Abidjan,Gasoline,,Broker,3,Duplicated Loading Records
+Jade voyager,9306990,2026-01-05,Lome,Jet A1,40800.0,Agent,2,Duplicated Loading Records
+Jade voyager,9306990,2026-01-28,Lome,Diesel,40600.0,Broker,3,Duplicated Loading Records
+Jade voyager,9306990,2026-03-23,Lome,Gasoline,47120.0,Broker,3,Duplicated Loading Records
+Jade voyager,9306990,2026-04-08,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Jade voyager,9306990,2026-04-25,Lagos,Diesel,35020.0,Broker,3,Duplicated Loading Records
+Jade voyager,9306990,2026-05-01,Lome,Jet A1,40810.0,Broker,3,Duplicated Loading Records
+Jade voyager,9306990,2026-05-23,Abidjan,Gasoline,,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,2026-02-05,Tema,Diesel,,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,2026-02-21,Lagos,Gasoline,40740.0,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,2026-03-05,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,2026-03-15,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,2026-04-01,Tema,Diesel,19460.0,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,2026-05-01,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,2026-05-09,Lome,Gasoline,25580.0,Broker,3,Duplicated Loading Records
+Coral voyager,9312248,,Tema,Jet A1,43000.0,Agent,2,Duplicated Loading Records
+Coral voyager,9312248,,Tema,Gasoline,30500.0,Agent,2,Duplicated Loading Records
+Amber bay,9315939,2026-02-03,Abidjan,Gasoline,,Broker,3,Duplicated Loading Records
+Amber bay,9315939,2026-04-06,Tema,Gasoline,24720.0,Broker,3,Duplicated Loading Records
+Amber bay,9315939,2026-05-27,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Amber bay,9315939,,Lagos,Gasoline,49800.0,Agent,2,Duplicated Loading Records
+Amber bay,9315939,,Lagos,Diesel,39300.0,Agent,2,Duplicated Loading Records
+Amber bay,9315939,,Lagos,Gasoline,29900.0,Agent,2,Duplicated Loading Records
+Amber bay,9315939,,Lagos,Gasoline,24100.0,Agent,2,Duplicated Loading Records
+Amber bay,9315939,,Lagos,Diesel,44600.0,Agent,2,Duplicated Loading Records
+Golden star,9325635,2026-01-03,Abidjan,Diesel,47790.0,Terminal,1,Duplicated Loading Records
+Golden star,9325635,2026-01-03,Abidjan,Diesel,47790.0,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-01-07,Abidjan,Diesel,24500.0,Terminal,1,Duplicated Loading Records
+Golden star,9325635,2026-01-20,Takoradi,Diesel,,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-03-05,Lome,Gasoline,,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-03-11,Lome,Jet A1,,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-03-23,Lome,Diesel,39770.0,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-03-31,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-04-18,Lome,Gasoline,,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-04-22,Lagos,Diesel,21600.0,Broker,3,Duplicated Loading Records
+Golden star,9325635,2026-05-06,Lagos,Gasoline,42570.0,Terminal,1,Duplicated Loading Records
+Golden star,9325635,2026-05-24,Lagos,Gasoline,24690.0,Broker,3,Duplicated Loading Records
+Golden star,9325635,,Lagos,Gasoline,24700.0,Agent,2,Duplicated Loading Records
+Golden star,9325635,,Lome,Gasoline,42400.0,Agent,2,Duplicated Loading Records
+Amber star,9354911,2026-01-06,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Amber star,9354911,2026-01-14,Lagos,Jet A1,,Broker,3,Duplicated Loading Records
+Amber star,9354911,2026-01-16,Takoradi,Gasoline,31490.0,Terminal,1,Duplicated Loading Records
+Amber star,9354911,2026-02-02,Lagos,Diesel,21940.0,Terminal,1,Duplicated Loading Records
+Amber star,9354911,2026-02-02,Lagos,Diesel,,Agent,2,Duplicated Loading Records
+Amber star,9354911,2026-02-02,Lagos,Diesel,21940.0,Broker,3,Duplicated Loading Records
+Amber star,9354911,2026-02-06,Lome,Gasoline,50150.0,Terminal,1,Duplicated Loading Records
+Amber star,9354911,2026-03-11,Tema,Jet A1,,Broker,3,Duplicated Loading Records
+Amber star,9354911,2026-03-13,Tema,Diesel,43060.0,Broker,3,Duplicated Loading Records
+Amber star,9354911,2026-03-13,Tema,Diesel,43060.0,Broker,3,Duplicated Loading Records
+Amber star,9354911,2026-05-16,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Amber star,9354911,2026-05-23,Lome,Diesel,45480.0,Terminal,1,Duplicated Loading Records
+Amber star,9354911,,Lome,Gasoline,39400.0,Agent,2,Duplicated Loading Records
+Amber star,9354911,,Takoradi,Gasoline,50700.0,Agent,2,Duplicated Loading Records
+Ivory falcon,9357872,2026-02-02,Tema,Jet A1,34900.0,Agent,2,Duplicated Loading Records
+Ivory falcon,9357872,2026-02-22,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Ivory falcon,9357872,2026-04-29,Tema,Jet A1,28830.0,Broker,3,Duplicated Loading Records
+Ivory falcon,9357872,2026-05-09,Tema,Gasoline,,Broker,3,Duplicated Loading Records
+Ivory falcon,9357872,,Lagos,Diesel,34200.0,Agent,2,Duplicated Loading Records
+Ivory falcon,9357872,,Takoradi,Diesel,45200.0,Agent,2,Duplicated Loading Records
+Northern meridian,9370094,2026-01-15,Abidjan,Gasoline,44430.0,Terminal,1,Duplicated Loading Records
+Northern meridian,9370094,2026-01-15,Abidjan,Gasoline,,Broker,3,Duplicated Loading Records
+Northern meridian,9370094,2026-02-03,Takoradi,Diesel,24400.0,Agent,2,Duplicated Loading Records
+Northern meridian,9370094,2026-02-07,Lome,Diesel,29570.0,Broker,3,Duplicated Loading Records
+Northern meridian,9370094,2026-03-03,Abidjan,Jet A1,,Broker,3,Duplicated Loading Records
+Northern meridian,9370094,2026-05-02,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Northern meridian,9370094,2026-05-20,Lome,Diesel,37390.0,Broker,3,Duplicated Loading Records
+Atlantic bay,9427665,2026-01-06,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Atlantic bay,9427665,2026-01-19,Lagos,Gasoline,,Broker,3,Duplicated Loading Records
+Atlantic bay,9427665,2026-02-16,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Atlantic bay,9427665,2026-02-19,Abidjan,Jet A1,47410.0,Broker,3,Duplicated Loading Records
+Atlantic bay,9427665,2026-03-30,Lome,Diesel,29910.0,Broker,3,Duplicated Loading Records
+Atlantic bay,9427665,2026-04-04,Lome,Diesel,45000.0,Agent,2,Duplicated Loading Records
+Atlantic bay,9427665,2026-05-05,Lome,Diesel,42100.0,Agent,2,Duplicated Loading Records
+Atlantic bay,9427665,2026-05-19,Lagos,Diesel,,Broker,3,Duplicated Loading Records
+Atlantic bay,9427665,,Lagos,Diesel,35900.0,Agent,2,Duplicated Loading Records
+Atlantic bay,9427665,,Lagos,Diesel,22900.0,Agent,2,Duplicated Loading Records
+Atlantic bay,9427665,,Lagos,Diesel,42600.0,Agent,2,Duplicated Loading Records
+Atlantic bay,9427665,,Lagos,Gasoline,51800.0,Agent,2,Duplicated Loading Records
+Atlantic bay,9427665,,Lome,Diesel,35500.0,Agent,2,Duplicated Loading Records
+Harbour star,9448645,2026-01-29,Lagos,Jet A1,21990.0,Broker,3,Duplicated Loading Records
+Harbour star,9448645,2026-03-05,Tema,Gasoline,35770.0,Broker,3,Duplicated Loading Records
+Harbour star,9448645,2026-03-09,Tema,Gasoline,29080.0,Broker,3,Duplicated Loading Records
+Harbour star,9448645,2026-03-11,Tema,Jet A1,24560.0,Terminal,1,Duplicated Loading Records
+Harbour star,9448645,2026-03-19,Lagos,Diesel,47360.0,Broker,3,Duplicated Loading Records
+Cobalt crest,9468841,2026-03-16,Abidjan,Diesel,,Broker,3,Duplicated Loading Records
+Cobalt crest,9468841,2026-05-26,Takoradi,Gasoline,22700.0,Broker,3,Duplicated Loading Records
+Cobalt crest,9468841,,Lome,Jet A1,30800.0,Agent,2,Duplicated Loading Records
+Cobalt crest,9468841,,Lome,Jet A1,30800.0,Agent,2,Duplicated Loading Records
+Harbour spirit,9485978,2026-01-03,Takoradi,Jet A1,22710.0,Broker,3,Duplicated Loading Records
+Harbour spirit,9485978,2026-02-03,Tema,Gasoline,49430.0,Broker,3,Duplicated Loading Records
+Harbour spirit,9485978,2026-04-08,Lome,Diesel,40250.0,Broker,3,Duplicated Loading Records
+Harbour spirit,9485978,2026-04-29,Lagos,Gasoline,43550.0,Terminal,1,Duplicated Loading Records
+Harbour spirit,9485978,2026-05-01,Lome,Jet A1,,Broker,3,Duplicated Loading Records
+Harbour spirit,9485978,,Lagos,Jet A1,20200.0,Agent,2,Duplicated Loading Records
+Harbour spirit,9485978,,Lome,Gasoline,35500.0,Agent,2,Duplicated Loading Records
+Crimson meridian,9493248,2026-01-24,Takoradi,Diesel,,Broker,3,Duplicated Loading Records
+Crimson meridian,9493248,2026-04-13,Abidjan,Gasoline,21580.0,Broker,3,Duplicated Loading Records
+Crimson meridian,9493248,2026-05-08,Lome,Gasoline,38890.0,Broker,3,Duplicated Loading Records
+Crimson meridian,9493248,,Abidjan,Gasoline,21600.0,Agent,2,Duplicated Loading Records
+Crimson meridian,9493248,,Tema,Diesel,30900.0,Agent,2,Duplicated Loading Records
+Golden meridian,9578191,2026-01-03,Lome,Gasoline,29720.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-01-15,Takoradi,Gasoline,37420.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-01-18,Lagos,Gasoline,21640.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-01-20,Lome,Diesel,29250.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-02-02,Lome,Gasoline,30700.0,Agent,2,Duplicated Loading Records
+Golden meridian,9578191,2026-02-02,Lome,Gasoline,,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-02-17,Lagos,Diesel,24310.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-02-18,Abidjan,Gasoline,34190.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-03-15,Lagos,Gasoline,19990.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,2026-04-30,Abidjan,Diesel,23600.0,Broker,3,Duplicated Loading Records
+Golden meridian,9578191,,Abidjan,Gasoline,48000.0,Agent,2,Duplicated Loading Records
+Golden meridian,9578191,,Abidjan,Diesel,23600.0,Agent,2,Duplicated Loading Records
+Golden meridian,9578191,,Lagos,Gasoline,31800.0,Agent,2,Duplicated Loading Records
+Golden meridian,9578191,,Lagos,Gasoline,27000.0,Agent,2,Duplicated Loading Records
+Eastern crest,9590400,2026-01-01,Lome,Diesel,27090.0,Broker,3,Duplicated Loading Records
+Eastern crest,9590400,2026-02-28,Lome,Jet A1,30080.0,Broker,3,Duplicated Loading Records
+Eastern crest,9590400,2026-03-16,Lagos,Diesel,51450.0,Terminal,1,Duplicated Loading Records
+Eastern crest,9590400,2026-03-16,Lagos,Diesel,51450.0,Broker,3,Duplicated Loading Records
+Eastern crest,9590400,2026-03-23,Abidjan,Gasoline,,Broker,3,Duplicated Loading Records
+Eastern crest,9590400,2026-04-21,Lagos,Gasoline,45540.0,Broker,3,Duplicated Loading Records
+Eastern crest,9590400,2026-05-04,Lome,Diesel,33770.0,Broker,3,Duplicated Loading Records
+Eastern crest,9590400,2026-05-30,Tema,Diesel,,Broker,3,Duplicated Loading Records
+Eastern crest,9590400,,Lagos,Diesel,36700.0,Agent,2,Duplicated Loading Records
+Eastern crest,9590400,,Lome,Jet A1,,Agent,2,Duplicated Loading Records
+Eastern bay,9033440,,Lome,Gasoline,40400.0,Agent,2,Invalid Date or Empty Load Date
+Eastern bay,9033440,,Lagos,Diesel,48600.0,Agent,2,Invalid Date or Empty Load Date
+Eastern bay,9033440,,Tema,Gasoline,47600.0,Agent,2,Invalid Date or Empty Load Date
+Eastern bay,9033440,,Abidjan,Diesel,43800.0,Agent,2,Invalid Date or Empty Load Date
+Eastern bay,9033440,,Takoradi,Gasoline,25800.0,Agent,2,Invalid Date or Empty Load Date
+Eastern voyager,9043407,,Lagos,Gasoline,48200.0,Agent,2,Invalid Date or Empty Load Date
+Eastern voyager,9043407,,Abidjan,Gasoline,19300.0,Agent,2,Invalid Date or Empty Load Date
+Eastern voyager,9043407,,Lome,Gasoline,48700.0,Agent,2,Invalid Date or Empty Load Date
+Eastern voyager,9043407,,Tema,Gasoline,30600.0,Agent,2,Invalid Date or Empty Load Date
+Eastern tide,9047362,,Abidjan,Gasoline,29800.0,Agent,2,Invalid Date or Empty Load Date
+Eastern tide,9047362,,Lagos,Diesel,20300.0,Agent,2,Invalid Date or Empty Load Date
+Eastern tide,9047362,,Lome,Diesel,35400.0,Agent,2,Invalid Date or Empty Load Date
+Golden falcon,9053593,,Lome,Diesel,45800.0,Agent,2,Invalid Date or Empty Load Date
+Golden falcon,9053593,,Takoradi,Gasoline,23100.0,Agent,2,Invalid Date or Empty Load Date
+Golden falcon,9053593,,Lagos,Diesel,47700.0,Agent,2,Invalid Date or Empty Load Date
+Golden falcon,9053593,,Tema,Diesel,,Agent,2,Invalid Date or Empty Load Date
+Amber crest,9057953,,Lome,Gasoline,23400.0,Agent,2,Invalid Date or Empty Load Date
+Amber crest,9057953,,Tema,Gasoline,47300.0,Agent,2,Invalid Date or Empty Load Date
+Amber crest,9057953,,Lagos,Jet A1,26000.0,Agent,2,Invalid Date or Empty Load Date
+Ivory bay,9100786,,Lagos,Diesel,27000.0,Agent,2,Invalid Date or Empty Load Date
+Ivory bay,9100786,,Lome,Gasoline,41400.0,Agent,2,Invalid Date or Empty Load Date
+Ivory bay,9100786,,Abidjan,Gasoline,33600.0,Agent,2,Invalid Date or Empty Load Date
+Ivory bay,9100786,,Tema,Diesel,35800.0,Agent,2,Invalid Date or Empty Load Date
+Ivory star,9106376,,Lagos,Jet A1,49900.0,Agent,2,Invalid Date or Empty Load Date
+Ivory star,9106376,,Lome,Gasoline,35100.0,Agent,2,Invalid Date or Empty Load Date
+Ivory star,9106376,,Tema,Gasoline,21200.0,Agent,2,Invalid Date or Empty Load Date
+Ivory star,9106376,,Takoradi,Diesel,50800.0,Agent,2,Invalid Date or Empty Load Date
+Ivory star,9106376,,Abidjan,Diesel,44100.0,Agent,2,Invalid Date or Empty Load Date
+Harbour falcon,9118745,,Takoradi,Jet A1,35400.0,Agent,2,Invalid Date or Empty Load Date
+Harbour falcon,9118745,,Lome,Gasoline,29900.0,Agent,2,Invalid Date or Empty Load Date
+Harbour falcon,9118745,,Lagos,Diesel,,Agent,2,Invalid Date or Empty Load Date
+Harbour falcon,9118745,,Tema,Diesel,19600.0,Agent,2,Invalid Date or Empty Load Date
+Cobalt pearl,9121314,,Lagos,Jet A1,32500.0,Agent,2,Invalid Date or Empty Load Date
+Cobalt voyager,9134828,,Lome,Jet A1,,Agent,2,Invalid Date or Empty Load Date
+Cobalt voyager,9134828,,Tema,Jet A1,34000.0,Agent,2,Invalid Date or Empty Load Date
+Cobalt voyager,9134828,,Takoradi,Diesel,39900.0,Agent,2,Invalid Date or Empty Load Date
+Crimson tide,9135224,,Lome,Diesel,37900.0,Agent,2,Invalid Date or Empty Load Date
+Crimson tide,9135224,,Abidjan,Diesel,36000.0,Agent,2,Invalid Date or Empty Load Date
+Atlantic voyager,9141948,,Lagos,Gasoline,23900.0,Agent,2,Invalid Date or Empty Load Date
+Atlantic voyager,9141948,,Takoradi,Gasoline,44600.0,Agent,2,Invalid Date or Empty Load Date
+Cobalt bay,9157478,,Tema,Diesel,51000.0,Agent,2,Invalid Date or Empty Load Date
+Cobalt bay,9157478,,Lome,Diesel,21200.0,Agent,2,Invalid Date or Empty Load Date
+Cobalt bay,9157478,,Lagos,Jet A1,19800.0,Agent,2,Invalid Date or Empty Load Date
+Ivory pearl,9173393,,Lagos,Gasoline,28800.0,Agent,2,Invalid Date or Empty Load Date
+Ivory pearl,9173393,,Tema,Jet A1,33800.0,Agent,2,Invalid Date or Empty Load Date
+Ivory pearl,9173393,,Lome,Gasoline,51800.0,Agent,2,Invalid Date or Empty Load Date
+Ivory pearl,9173393,,Abidjan,Gasoline,38400.0,Agent,2,Invalid Date or Empty Load Date
+Golden pearl,9200885,,Tema,Diesel,48700.0,Agent,2,Invalid Date or Empty Load Date
+Golden pearl,9200885,,Lagos,Gasoline,48600.0,Agent,2,Invalid Date or Empty Load Date
+Golden pearl,9200885,,Takoradi,Diesel,50300.0,Agent,2,Invalid Date or Empty Load Date
+Crimson falcon,9253923,,Lagos,Jet A1,40000.0,Agent,2,Invalid Date or Empty Load Date
+Crimson falcon,9253923,,Lome,Diesel,44400.0,Agent,2,Invalid Date or Empty Load Date
+Crimson falcon,9253923,,Tema,Gasoline,43500.0,Agent,2,Invalid Date or Empty Load Date
+Crimson falcon,9253923,,Takoradi,Gasoline,29700.0,Agent,2,Invalid Date or Empty Load Date
+Crimson falcon,9253923,,Abidjan,Jet A1,30100.0,Agent,2,Invalid Date or Empty Load Date
+Jade voyager,9306990,,Lome,Gasoline,47100.0,Agent,2,Invalid Date or Empty Load Date
+Jade voyager,9306990,,Takoradi,Jet A1,,Agent,2,Invalid Date or Empty Load Date
+Coral voyager,9312248,,Tema,Diesel,18800.0,Agent,2,Invalid Date or Empty Load Date
+Amber bay,9315939,,Lagos,Gasoline,48000.0,Agent,2,Invalid Date or Empty Load Date
+Golden star,9325635,,Abidjan,Diesel,24500.0,Agent,2,Invalid Date or Empty Load Date
+Golden star,9325635,,Takoradi,Diesel,40700.0,Agent,2,Invalid Date or Empty Load Date
+Golden star,9325635,,Lome,Diesel,39800.0,Agent,2,Invalid Date or Empty Load Date
+Golden star,9325635,,Lagos,Diesel,21600.0,Agent,2,Invalid Date or Empty Load Date
+Amber star,9354911,,Lagos,Jet A1,37000.0,Agent,2,Invalid Date or Empty Load Date
+Amber star,9354911,,Takoradi,Gasoline,31500.0,Agent,2,Invalid Date or Empty Load Date
+Amber star,9354911,,Lome,Diesel,26200.0,Agent,2,Invalid Date or Empty Load Date
+Amber star,9354911,,Tema,Diesel,43100.0,Agent,2,Invalid Date or Empty Load Date
+Ivory falcon,9357872,,Takoradi,Gasoline,33700.0,Agent,2,Invalid Date or Empty Load Date
+Ivory falcon,9357872,,Lome,Jet A1,26300.0,Agent,2,Invalid Date or Empty Load Date
+Ivory falcon,9357872,,Lagos,Gasoline,41900.0,Agent,2,Invalid Date or Empty Load Date
+Ivory falcon,9357872,,Tema,Jet A1,28800.0,Agent,2,Invalid Date or Empty Load Date
+Northern meridian,9370094,,Abidjan,Gasoline,44400.0,Agent,2,Invalid Date or Empty Load Date
+Northern meridian,9370094,,Lome,Diesel,37400.0,Agent,2,Invalid Date or Empty Load Date
+Atlantic bay,9427665,,Lagos,Gasoline,39700.0,Agent,2,Invalid Date or Empty Load Date
+Atlantic bay,9427665,,Abidjan,Jet A1,47400.0,Agent,2,Invalid Date or Empty Load Date
+Atlantic bay,9427665,,Lome,Gasoline,29100.0,Agent,2,Invalid Date or Empty Load Date
+Atlantic bay,9427665,,Tema,Diesel,47100.0,Agent,2,Invalid Date or Empty Load Date
+Harbour star,9448645,,Lagos,Diesel,44400.0,Agent,2,Invalid Date or Empty Load Date
+Harbour star,9448645,,Takoradi,Diesel,39400.0,Agent,2,Invalid Date or Empty Load Date
+Harbour star,9448645,,Lome,Gasoline,45800.0,Agent,2,Invalid Date or Empty Load Date
+Cobalt crest,9468841,,Lome,Gasoline,34000.0,Agent,2,Invalid Date or Empty Load Date
+Harbour spirit,9485978,,Lagos,Gasoline,35900.0,Agent,2,Invalid Date or Empty Load Date
+Harbour spirit,9485978,,Abidjan,Gasoline,29000.0,Agent,2,Invalid Date or Empty Load Date
+Harbour spirit,9485978,,Lome,Diesel,44200.0,Agent,2,Invalid Date or Empty Load Date
+Crimson meridian,9493248,,Tema,Diesel,48200.0,Agent,2,Invalid Date or Empty Load Date
+Crimson meridian,9493248,,Abidjan,Jet A1,30200.0,Agent,2,Invalid Date or Empty Load Date
+Crimson meridian,9493248,,Lagos,Jet A1,23700.0,Agent,2,Invalid Date or Empty Load Date
+Golden meridian,9578191,,Takoradi,Gasoline,37400.0,Agent,2,Invalid Date or Empty Load Date
+Golden meridian,9578191,,Lagos,Gasoline,21600.0,Agent,2,Invalid Date or Empty Load Date
+Golden meridian,9578191,,Lome,Diesel,29200.0,Agent,2,Invalid Date or Empty Load Date
+Golden meridian,9578191,,Abidjan,Gasoline,34200.0,Agent,2,Invalid Date or Empty Load Date
+Eastern crest,9590400,,Lome,Diesel,27500.0,Agent,2,Invalid Date or Empty Load Date
+Eastern crest,9590400,,Takoradi,Diesel,38300.0,Agent,2,Invalid Date or Empty Load Date
+Eastern crest,9590400,,Lagos,Diesel,51500.0,Agent,2,Invalid Date or Empty Load Date
+Eastern bay,9033440,2026-02-21,Lagos,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Eastern bay,9033440,2026-05-18,Takoradi,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Eastern voyager,9043407,2026-03-17,Tema,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Amber crest,9057953,2026-01-30,Tema,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Ivory star,9106376,2026-02-27,Lagos,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Ivory star,9106376,2026-03-27,Takoradi,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Harbour falcon,9118745,2026-01-28,Lagos,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Harbour falcon,9118745,2026-02-05,Takoradi,Diesel,,Broker,3,Invalid Quantity or Quantity not reported
+Cobalt voyager,9134828,2026-01-29,Abidjan,Diesel,,Broker,3,Invalid Quantity or Quantity not reported
+Crimson tide,9135224,2026-01-26,Tema,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Cobalt bay,9157478,2026-02-10,Lagos,Diesel,,Broker,3,Invalid Quantity or Quantity not reported
+Cobalt bay,9157478,2026-02-16,Abidjan,Jet A1,,Broker,3,Invalid Quantity or Quantity not reported
+Ivory pearl,9173393,2026-03-04,Abidjan,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Golden pearl,9200885,2026-01-09,Takoradi,Jet A1,,Broker,3,Invalid Quantity or Quantity not reported
+Coral voyager,9312248,2026-01-25,Tema,Jet A1,,Broker,3,Invalid Quantity or Quantity not reported
+Coral voyager,9312248,2026-03-05,Lagos,Gasoline,,Terminal,1,Invalid Quantity or Quantity not reported
+Amber bay,9315939,2026-02-26,Lagos,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Golden star,9325635,2026-02-17,Tema,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Golden star,9325635,2026-04-03,Lome,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Amber star,9354911,2026-03-29,Lome,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Ivory falcon,9357872,2026-01-08,Lome,Diesel,,Broker,3,Invalid Quantity or Quantity not reported
+Ivory falcon,9357872,2026-02-09,Lagos,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Ivory falcon,9357872,2026-03-16,Lome,Jet A1,,Broker,3,Invalid Quantity or Quantity not reported
+Northern meridian,9370094,2026-07-02,Lome,Diesel,,Agent,2,Invalid Quantity or Quantity not reported
+Harbour star,9448645,2026-10-03,Abidjan,Diesel,,Agent,2,Invalid Quantity or Quantity not reported
+Cobalt crest,9468841,2026-05-24,Takoradi,Diesel,,Broker,3,Invalid Quantity or Quantity not reported
+Harbour spirit,9485978,2026-03-24,Lome,Diesel,,Broker,3,Invalid Quantity or Quantity not reported
+Crimson meridian,9493248,2026-03-14,Abidjan,Jet A1,,Terminal,1,Invalid Quantity or Quantity not reported
+Crimson meridian,9493248,2026-03-15,Tema,Diesel,,Broker,3,Invalid Quantity or Quantity not reported
+Eastern crest,9590400,2026-03-15,Lagos,Jet A1,,Broker,3,Invalid Quantity or Quantity not reported
+Eastern crest,9590400,2026-05-05,Tema,Gasoline,,Terminal,1,Invalid Quantity or Quantity not reported
+Ivory bay,,2026-01-10,Lome,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Ivory falcon,,2026-01-25,Takoradi,Gasoline,,Broker,3,Invalid Quantity or Quantity not reported
+Coral voyager,,2026-01-20,Tema,Diesel,18800.0,Broker,3,IMO Numbers not reported
+Eastern crest,,2026-02-14,Takoradi,Diesel,38310.0,Broker,3,IMO Numbers not reported
+Atlantic bay,,2026-03-12,Tema,Gasoline,31940.0,Broker,3,IMO Numbers not reported
+Cobalt bay,,2026-03-20,Tema,Diesel,32360.0,Broker,3,IMO Numbers not reported
+Crimson meridian,,2026-03-30,Abidjan,Gasoline,17530.0,Broker,3,IMO Numbers not reported
+Eastern bay,,2026-04-12,Tema,Jet A1,48340.0,Broker,3,IMO Numbers not reported
